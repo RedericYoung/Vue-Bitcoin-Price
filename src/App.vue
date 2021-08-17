@@ -1,15 +1,14 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <CoinBase />
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import CoinBase from './components/CoinBase.vue';
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    CoinBase
   }
 }
 </script>

@@ -1,4 +1,5 @@
-# vue-project
+# rederic-young
+Had a blast!
 
 ## Project setup
 ```
